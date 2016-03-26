@@ -31,6 +31,7 @@ class PMSSwing extends JFrame implements ActionListener
   private JLabel lblQty;
   private JLabel lblPrice;
   private JLabel lblCompanyname;
+  private JLable lblcomp;
 
   //List of TextFields
 
