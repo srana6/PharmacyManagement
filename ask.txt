@@ -1,0 +1,5 @@
+things to ask..
+1.progress bar
+2.searchin of medicine
+3.java file of xps style
+4.ui manger
